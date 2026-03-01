@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-01 18:34:50,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2026-03-02 06:33:51,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -1207,7 +1207,6 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 昌黎,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8$订阅源
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8$订阅源
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8$订阅源
-衡山,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8$订阅源
 
 ☘️贵州频道,#genre#
 安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8$订阅源
@@ -1322,9 +1321,6 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd$订阅源
 日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd$订阅源
 日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8?shandd$订阅源
-菏泽影,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd$订阅源
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd$订阅源
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd$订阅源
 
 ☘️山西频道,#genre#
 万荣综合,http://60.222.246.220:19433/hls1.m3u8$订阅源
@@ -1460,6 +1456,10 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8$订阅源
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8$订阅源
 哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434$订阅源
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8$订阅源
+哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8$订阅源
+哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild$订阅源
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8$订阅源
 大庆新闻综合,rtmp://masterpull.hljtv.com/live/4WdrZLCq$订阅源
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534$订阅源
 鹤岗新闻综合,http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8$订阅源
